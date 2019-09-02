@@ -1,0 +1,17 @@
+{
+  "name": "mission-control-errors",
+  "version": "1.0.0",
+  "main": "index.html",
+  "author": "Hugo Bessa <eu@hugobessa.com.br>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  },
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "dependencies": {
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
